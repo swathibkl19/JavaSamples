@@ -1,0 +1,68 @@
+//
+//
+//
+//public class Solution {
+//
+//
+////    char ch = 'a';
+////    int ascii = ch;
+////    // You can also cast char to int
+//   // int castAscii = (int) ch;
+//
+    public static void main(String[] args) {
+
+        console.println("================================================");
+        console.println("====WELCOME TO GROUP 4 $$$$$$$CASINO$$$$$$$$$===");
+        console.println("================================================");
+        console.println("");
+        console.println("                             .------.             ");
+        console.println("        .------.             |A .   |    ");
+        console.println("        |A_  _  |     .------| / \\ |     ");
+        console.println("        |( \\/ )|-----|A     |(_,_) |     ");
+        console.println("        | \\  / | /\\   ( )  |  I  A|           ");
+        console.println("        |  \\/ A|/  \\ (_x_) |.-----'           ");
+        console.println("        `-----+'\\  / | Y  A |                    ");
+        console.println("              |  \\/ A|-----'                   ");
+        console.println("              `------'                          ");
+        console.println("");
+        console.println("     +-------+                       +-------+    ");
+        console.println("     | o     |                       | o o o |    ");
+        console.println("     |     o |                       | o o o |    ");
+        console.println("     +-------+                       +-------+    ");
+        console.println("================================================");
+        console.println("================================================");
+
+//
+//        System.out.println("");
+//    }
+//}
+//
+console.println("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
+console.println("           CRAPS GAME                 ");
+console.println("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
+console.println("\n");
+console.println("        .-------.    ______                           ");
+console.println("       /   o   /|   /\\     \\                        ");
+console.println("      /_______/o|  /o \\  o  \\                       ");
+console.println("      | o     | | /   o\\_____\\                      ");
+console.println("      |   o   |o/ \\o   /o    /                       ");
+console.println("      |     o |/   \\ o/  o  /                        ") ;
+console.println("      '-------'     \\/____o/                         ");
+console.println("                                                      ");
+
+
+
+console.println("  444444444444$$$$$$$$$$$$$$$$$$$$$$$44444");
+console.println("  ======================================= ");
+console.println("      " +
+        _______  _______  _______           _______       ___      _______  _______  _______ _________ _        _______
+        (  ____ (  ____ )(  ___  )|\     /|(  ____ )     /   )    (  ____ \(  ___  )(  ____ \\__   __/( (    /|(  ___  )
+        | (    /| (    )|| (   ) || )   ( || (    )|    / /) |    | (    \/| (   ) || (    \/   ) (   |  \  ( || (   ) |
+        | |      | (____)|| |   | || |   | || (____)|   / (_) (_   | |      | (___) || (_____    | |   |   \ | || |   | |
+        | | ____ |     __)| |   | || |   | ||  _____)  (____   _)  | |      |  ___  |(_____  )   | |   | (\ \) || |   | |
+        | | _  )| ( (   | |   | || |   | || (             ) (    | |      | (   ) |      ) |   | |   | | \   || |   | |
+        | (___) || )  __| (___) || (___) || )             | |    | (____/\| )   ( |/\____) |___) (___| )  \  || (___) |
+        (_______)|/   __/(_______)(_______)|/              (_)    (_______/|/     \|\_______)\_______/|/    )_)(_______)
+        ");
+console.println("        " +
+        "console.println(\"        \")")
